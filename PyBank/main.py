@@ -3,7 +3,7 @@ import os
 # Module for reading CSV files
 import csv
 
-csvpath = os.path.join('budget_data.csv')
+budget_data.csv = os.path.join("..", "Resources", "budget_data.csv")
 print("csvpath.. " + csvpath)
 
 

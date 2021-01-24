@@ -6,7 +6,7 @@ import os
 import csv
 
 #filepath = '..\Resources\Accounting.csv'
-csvpath = os.path.join('election_data.csv')
+csvpath = os.path.join("..", "Resources", 'election_data.csv')
 print("csvpath.. " + csvpath)
 
 
